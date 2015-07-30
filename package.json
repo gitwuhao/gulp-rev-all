@@ -1,0 +1,19 @@
+{
+    "name": "gulp-rev-all-test",
+    "version": "0.1.0",
+    "description": "gulp-rev-all-test",
+    "main": "index.js",
+    "dependencies": {
+        "chalk": "~0.4.0",
+        "gulp-util": "~2.2.14",
+        "merge": "^1.2.0",
+        "through2": "~0.4.0"
+    },
+    "devDependencies": {
+        "gulp": "~3.5.5",
+        "gulp-jshint": "~1.5.1",
+        "gulp-mocha": "~0.4.1",
+        "mocha": "~2.2.1",
+        "should": "*"
+    }
+}

@@ -1,0 +1,18 @@
+body {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    margin: 0px;
+    overflow: hidden;
+	background-image: url("../image/x3.png");
+	background-repeat: repeat;
+}
+
+.x-ui-canvas {
+    display: inline-block;
+    vertical-align: baseline;
+    outline: 1px solid #555;
+    outline-offset: -5px;
+}
